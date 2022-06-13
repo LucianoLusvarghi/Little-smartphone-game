@@ -1,4 +1,4 @@
-# Academic project in a group of two
+# Academic project in a group of three
 
 ## Creation of a smartphone trivia game
 
